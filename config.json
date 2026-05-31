@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentvalidate",
+        "uuid": 4845335,
+        "checksum": "uvc13"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
